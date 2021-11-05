@@ -13,7 +13,7 @@ Pautando-se pela realidade e mudanças no cenário econômico e de trocas comerc
 
 ## Professor
 
-* Juliana 
+* Juliana Amaral Baroni
 
 ## Histórico de versões
 
