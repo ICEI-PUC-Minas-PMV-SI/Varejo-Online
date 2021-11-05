@@ -1,19 +1,19 @@
-# Nome do projeto
+# Varejo Online
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+Pautando-se pela realidade e mudanças no cenário econômico e de trocas comerciais, o presente projeto traz como objetivo geral fornecer uma plataforma digital para varejistas comercializarem seus produtos. Este preceito vai de encontro às novas formas de venda, compra, troca e aquisições feitas de modo _online_.  E assim, neste contexto de avanços significativos, que a proposta aqui apresentada, além de fornecer um modelo de negócio varejista em plataforma digital busca: otimizar os processos de vendas e do varejo online através do cadastro de fornecedores e clientes, na tentativa de acompanhar os avanços, melhorar a prestação de serviços e ofertar qualidade nas transações de mercado com as vendas de produtos. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Eduardo da Silva Bento 
+* Gabriel Martins Santana 
+* Márcio Alves de Oliveira Júnior 
+* Mateus de Oliveira e Silveira 
+* Sânzio de Oliveira Carmo 
+* Vítor Miranda Batista Pereira 
 
 ## Professor
 
-* Nome completo do professor
+* Juliana 
 
 ## Histórico de versões
 
