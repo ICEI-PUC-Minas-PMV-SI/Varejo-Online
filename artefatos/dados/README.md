@@ -2,13 +2,12 @@
 
 Este diretório mantém os artefatos relacionados à modelagem de dados do projeto. 
 
-Os principais documentos a serem produzidos são:
-
+Os principais documentos produzidos são:
 
 * `diagrama entidade-relacionamento (DER)`
-	* Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+	![0001](https://user-images.githubusercontent.com/81273377/141023095-62df0f57-3c85-4d4f-adb3-71f0fd0f9259.jpg)
 
 * `modelo relacional`
-	* Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+	![0002](https://user-images.githubusercontent.com/81273377/141023160-3632fc71-1fe8-4871-9fab-3e31c3a896fb.jpg)
 
-Demais artefatos que julgar pertinentes.
+
