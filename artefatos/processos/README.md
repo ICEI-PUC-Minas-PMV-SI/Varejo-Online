@@ -1,10 +1,18 @@
 # Lista dos processos de negócio do sistema
 
 * Processo de Gerenciamento de Fornecedores
-* Processo de Gerenciamento de Produtos
+(Gerenciar Fornecedor) - jamaralbaroni.bpmn
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* Processo de Gerenciamento de Produtos
+(Gerenciar Produto) - jamaralbaroni.bpmn
+
+* Processo de Gerenciamento de Clientes
+(Gerenciar Cliente) - jamaralbaroni.bpmn
+
+* Processo de Gerenciamento de Compras
+(Gerenciar Compras) - jamaralbaroni.bpmn
+
+* Processo de Gerenciamento de Vendas
+(Gerenciar Vendas ) - jamaralbaroni.bpmn
 
 
