@@ -9,6 +9,7 @@ Os principais documentos produzidos são:
 
 
 * `modelo relacional`
-	![0002](https://user-images.githubusercontent.com/81273377/141023160-3632fc71-1fe8-4871-9fab-3e31c3a896fb.jpg)
+	
+![Diagrama Relacional-Page-1 (1)](https://user-images.githubusercontent.com/81272987/144727973-63195c70-5d76-4026-96c7-02c9d4b82ad1.jpg)
 
 
